@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rohan-k-design
 - 👀 I’m interested in design & web dev
 - 🌱 I’m currently learning web dev
-- 😄 Pronouns: he/him/attack helicopter
+- 😄 Pronouns: he/him
 
 
 <!---
